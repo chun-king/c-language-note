@@ -1,0 +1,11 @@
+# 编译产物，不要上传
+*.exe
+*.o
+*.obj
+
+# WorkBuddy 工具数据（包含对话记录，属于隐私，不上传）
+.workbuddy/
+
+# 编辑器临时文件
+.vscode/
+*.tmp
